@@ -19,5 +19,4 @@ This project is a web application designed to ingest, process, and store sensor 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/alankarartist/levelsfyi_r3_backend.git)
